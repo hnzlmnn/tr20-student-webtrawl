@@ -1,0 +1,6 @@
+.venv/
+dist/
+logs/
+tests/
+cache.pickle
+dist.sh
